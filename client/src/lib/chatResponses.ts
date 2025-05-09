@@ -1,0 +1,8 @@
+export const mockResponses: Record<string, string> = {
+  "how do i sell my license": "Selling your license is easy! Just fill out our contact form with your license details, and we'll provide a free valuation within 24 hours. Once you accept our offer, we handle the transfer process and you get paid within 48 hours.",
+  "what's the process like": "Our process has just three steps: 1) Upload your license details, 2) Receive a valuation from our experts, and 3) Accept our offer and get paid. The whole process typically takes 2-3 business days.",
+  "how much is my license worth": "The value of your license depends on several factors, including the software vendor, version, remaining subscription time, and current market demand. Our experts analyze these factors to ensure you get the maximum value. Fill out our contact form for a free valuation!",
+  "what types of licenses": "We buy almost all types of software licenses, including enterprise software, SaaS subscriptions, desktop applications, and cloud services from major vendors like Microsoft, Adobe, Oracle, Salesforce, and many others.",
+  "is this legal": "Absolutely! Software license resale is completely legal when done properly. We ensure all transfers comply with vendor terms and regional regulations. We've been doing this since 2018 and have processed thousands of successful transfers.",
+  "default": "I'm here to help with any questions about selling your software licenses. You can ask me about our process, the types of licenses we accept, how much your license might be worth, or anything else related to SoftSell's services!"
+};
